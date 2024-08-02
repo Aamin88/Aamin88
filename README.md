@@ -6,7 +6,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aminalhassan01/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://x.com/AminForkah"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://x.com/AminForkah"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <h1>
 Hi there, I'm Amin
@@ -15,7 +15,7 @@ Hi there, I'm Amin
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/Aamin88/Aamin88/blob/main/assets/hero.jpeg" width="600" height="300"/>
 </div>
 
 ## About Me
