@@ -20,12 +20,12 @@ Hi there, I'm Amin
 
 ## About Me
 
-I'm a fullstack developer with a passion for [Your Interests or Specialties]. I love working on projects related to [Your Fields of Interest], and I'm always eager to learn and explore new technologies.
+I'm a fullstack developer with a passion for crafting solutions for the web. I love working on projects related to backend, and I'm always eager to learn and explore new technologies.
 
-- 🌱 I’m currently learning [Technology/Skill].
-- 👯 I’m looking to collaborate on [Type of Projects].
-- 💬 Ask me about [Your Expertise Areas].
-- 📫 How to reach me: [Your Email] or [Your LinkedIn Profile].
+- 🌱 I’m currently learning mysql.
+- 👯 I’m looking to collaborate on fullstack projects.
+- 💬 Ask me about node.js.
+- 📫 How to reach me: ![Email](forkahamin@yahoo.co.uk) or ![on linkedin](https://www.linkedin.com/in/aminalhassan01/).
 
 ## Tech Stack
 
@@ -58,11 +58,11 @@ I'm a fullstack developer with a passion for [Your Interests or Specialties]. I 
 
 ## ✨ Projects
 
-#### [Project Name](https://github.com/your-username/project-repo)
+<!-- #### [Project Name](https://github.com/your-username/project-repo)
 
 ![Project Banner](https://github.com/your-username/project-repo/blob/main/banner.jpg)
 
-A brief description of this awesome project. Key features include [Feature 1], [Feature 2], and [Feature 3]. Built with [Technologies Used].
+A brief description of this awesome project. Key features include [Feature 1], [Feature 2], and [Feature 3]. Built with [Technologies Used]. -->
 
 ## 📫 Get in Touch
 
