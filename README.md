@@ -25,7 +25,7 @@ I'm a fullstack developer with a passion for crafting solutions for the web. I l
 - 🌱 I’m currently learning mysql.
 - 👯 I’m looking to collaborate on fullstack projects.
 - 💬 Ask me about node.js.
-- 📫 How to reach me: ![Email](forkahamin@yahoo.co.uk) or ![on linkedin](https://www.linkedin.com/in/aminalhassan01/).
+- 📫 How to reach me: [Email](forkahamin@yahoo.co.uk) 
 
 ## Tech Stack
 
