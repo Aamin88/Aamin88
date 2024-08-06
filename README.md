@@ -14,9 +14,9 @@ Hi there, I'm Amin
   </h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Aamin88/Aamin88/blob/main/assets/hero.jpeg" width="640" height="500"/>
-</div>
+</div> -->
 
 ## About Me
 
