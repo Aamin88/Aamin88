@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Aamin88/Aamin88/blob/main/assets/8000-210.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aamin88/Aamin88/main/DALL%C2%B7E%202024-08-30%2012.39.21%20-%20A%202D%20animation%20style%20illustration%20of%20a%20Black%20African%20person%20with%20a%20round%20face%20and%20fully%20grown%2C%20curly%20afro%20black%20hair%20coding%20on%20a%20MacBook%20Pro.%20They%20are.webp" width="100"/>
 
   <div align='center'><img src="https://komarev.com/ghpvc/?username=Aamin88&style=for-the-badge&color=blue" alt=""/></div>
   ""
